@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Jorge\Oficina\Temas en estudio\Microservicios\workspace\.metadata\.plugins\org.eclipse.jdt.core
+2292524338.index
+3552587573.index
+2642516869.index
